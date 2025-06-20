@@ -1,1 +1,1 @@
-# Card
+A simple, elegant HTML + CSS project that displays an inspirational quote card with a background image, tags, and a call-to-action button. Great for learning the basics of styling, layout, and component design.
